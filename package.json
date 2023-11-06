@@ -6,21 +6,13 @@
     "scripts": {
         "start": "node index.js"
     },
-<<<<<<< HEAD
     "author": "kefc",
     "license": "MIT",
     "dependencies": {
         "express": "^4.17.1",
         "lodash": "^4.17.21"
-    }
+    },
+    "name2": "my-project",
+    "version2": "1.0.0",
+    "description2": "A brief description of your project",
 }
-=======
-                "author": "kefc",
-                    "license": "MIT",
-                    "dependencies": {
-                "express": "^4.17.1",
-      "lodash": "^4.17.21"
-        }
-  }
-  
->>>>>>> main
