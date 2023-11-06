@@ -6,6 +6,7 @@
     "scripts": {
         "start": "node index.js"
     },
+<<<<<<< HEAD
     "author": "kefc",
     "license": "MIT",
     "dependencies": {
@@ -13,3 +14,13 @@
         "lodash": "^4.17.21"
     }
 }
+=======
+                "author": "kefc",
+                    "license": "MIT",
+                    "dependencies": {
+                "express": "^4.17.1",
+      "lodash": "^4.17.21"
+        }
+  }
+  
+>>>>>>> main
